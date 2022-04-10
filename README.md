@@ -1,1 +1,1 @@
-# Vyu-it-ML.NET-pro-strojov-u-en-
+# Využití ML.NET pro strojové učení
