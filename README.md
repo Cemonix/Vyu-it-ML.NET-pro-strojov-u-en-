@@ -25,7 +25,7 @@ Struktura Jupyter Notebooků
 ![alt text][Evaluace]
 
 
-[Popis]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Popis_ulohy.PNG
+[Popis]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Popis.PNG
 [Vizualizace]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Vizualice.PNG
 [Evaluace]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Evaluace_modelu.PNG
 
