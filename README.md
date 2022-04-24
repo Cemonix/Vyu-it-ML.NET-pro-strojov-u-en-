@@ -26,7 +26,7 @@ Struktura Jupyter Notebooků
 
 
 [Popis]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Popis.PNG
-[Vizualizace]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Vizualice.PNG
+[Vizualizace]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Vizualizace.PNG
 [Evaluace]: https://github.com/Cemonix/Vyuziti-ML.NET-pro-strojove-uceni/blob/main/Obr%C3%A1zky/Evaluace_modelu.PNG
 
 [^1]: Z důvodu velikosti souboru je poslední úloha uložena v souboru rar.
